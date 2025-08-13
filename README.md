@@ -1,4 +1,5 @@
 WEEKLY CODE CHALLENGE
+
 Write a program that will tell the user the grade of a student as follows:
 - If grade is 90 or higher, print "A"
 - Else if grade is 80 or higher, print "B"
